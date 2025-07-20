@@ -33,7 +33,7 @@ Programa desarrollado en Python que integra un script que permite convertir el t
   - error al abrir o leer el PDF.
 - El motor de síntesis `pyttsx3` funciona localmente y no requiere conexión a internet.
 
-**Gracias por leer** 
-        7t
+**Gracias por leer**         
+7t
 
    
